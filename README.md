@@ -1,4 +1,4 @@
-# 30DC
+# 30-Day Coding Archive
 
 A 30-day coding and revision archive containing DSA notes, HTML/CSS projects, JavaScript practice, React coursework, and a chat app.
 

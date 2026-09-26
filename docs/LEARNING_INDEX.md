@@ -7,7 +7,7 @@ Use this repository as a history and revision archive, not as a production portf
 1. `DSA/` - revisit core data-structure notes and revision material.
 2. `Javascript/Revision/` - review JavaScript fundamentals and browser practice.
 3. `HTML-CSS-Completed-Project/` - scan completed static UI exercises.
-4. `React-JS-Course/` - keep as course material only because one archived path is Windows-incompatible.
+4. `React-JS-Course/` - review the course material; the portable `React/` folder contains empty HTML placeholders, not runnable React applications.
 5. `chatapp/` - review only if extracting a clean standalone chat project later.
 
 ## Extraction Rules
